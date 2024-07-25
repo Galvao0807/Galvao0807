@@ -3,8 +3,11 @@
 
 - 🎓 Estudante de Desenvolvimento de Sistemas.
 - ❤ Sou apaixonado por tecnologia, RPG, series e gatos.
-- 🏳️‍🌈 Amor é amor
+- 🌲 Gosto muito da natureza.
 - 😄 Pronouns: ele/dele
+- 🕹️ Meu hobbie é jogar casualmente.
+
+
 
 ## Tecnologias
 
