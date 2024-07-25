@@ -1,5 +1,5 @@
 ### Olá, Eu sou o Rafa!
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 - 🎓 Estudante de Desenvolvimento de Sistemas.
 - ❤ Sou apaixonado por tecnologia, RPG, series e gatos.
