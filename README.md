@@ -7,6 +7,8 @@
 - 😄 Pronouns: ele/dele
 - 🕹️ Meu hobbie é jogar casualmente.
 
+![Rafa GitHub stats](https://github-readme-stats.vercel.app/api?username=Galvao0807&show_icons=true&theme=dracula)
+
 
 
 ## Tecnologias
