@@ -1,13 +1,12 @@
-### Olá, Eu sou o Rafa!
+### Olá, Eu sou Isa!
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 - 🎓 Estudante de Desenvolvimento de Sistemas.
-- ❤ Sou apaixonado por tecnologia, RPG, series e gatos.
+- ❤ Amo tecnologia, RPG, series e gatos.
 - 🌲 Gosto muito da natureza.
-- 😄 Pronouns: ele/dele
 - 🕹️ Meu hobbie é jogar casualmente.
 
-![Rafa GitHub stats](https://github-readme-stats.vercel.app/api?username=Galvao0807&show_icons=true&theme=dracula)
+![Isa GitHub stats](https://github-readme-stats.vercel.app/api?username=Galvao0807&show_icons=true&theme=dracula)
 
 
 
