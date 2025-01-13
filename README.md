@@ -5,7 +5,10 @@
 - ❤ Amo tecnologia, RPG, series e gatos.
 - 🌲 Gosto muito da natureza.
 - 🕹️ Meu hobbie é jogar casualmente.
-
+  
+- Inicio no colegio 2023, final 2025.
+- Mostrarei meus codigos e projetos nesse github
+- Seja bem vindo!
 
 
 
