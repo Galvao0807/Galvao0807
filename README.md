@@ -6,7 +6,6 @@
 - 🌲 Gosto muito da natureza.
 - 🕹️ Meu hobbie é jogar casualmente.
 
-![Isa GitHub stats](https://github-readme-stats.vercel.app/api?username=Galvao0807&show_icons=true&theme=dracula)
 
 
 
